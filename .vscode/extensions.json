@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "auchenberg.vscode-browser-preview",
+    "wmaurer.change-case",
+    "msjsdiag.debugger-for-chrome",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "kumar-harsh.graphql-for-vscode",
+    "wix.vscode-import-cost",
+    "capaj.vscode-standardjs-snippets",
+    "christian-kohler.path-intellisense",
+    "wallabyjs.quokka-vscode",
+    "timonvs.reactsnippetsstandard",
+    "equimper.react-native-react-redux",
+    "chenxsan.vscode-standardjs",
+    "shinnn.stylelint",
+    "wayou.vscode-todo-highlight",
+    "tzachovadia.todo-list",
+    "minhthai.vscode-todo-parser",
+    "fabiospampinato.vscode-todo-plus"
+  ],
+  "unwantedRecommendations": []
+}
